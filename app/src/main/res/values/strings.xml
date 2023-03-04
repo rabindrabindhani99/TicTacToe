@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="first_name_hint">Nabanita</string>
+    <string name="second_name_hint">Rabindra</string>
+    <string name="app_name_text">TIC TAC TOE</string>
+    <string name="play">PLAY</string>
+    <string name="player_2_textView">Player-2</string>
+    <string name="player_1_textView">Player-1</string>
+</resources>
