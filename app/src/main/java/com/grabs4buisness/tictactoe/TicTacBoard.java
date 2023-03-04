@@ -29,7 +29,6 @@ public class TicTacBoard extends View {
             a.recycle();
         }
     }
-
     @Override
     protected void onMeasure(int width, int height) {
         super.onMeasure(width, height);
