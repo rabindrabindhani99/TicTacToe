@@ -1,0 +1,686 @@
+{
+"student":[
+ {
+  "regno": 2105105001,
+  "studentlist": "abhisek satapathy",
+  "sem1cgpa": 9.62,
+  "sem2cgpa": 9.02,
+  "sem3cgpa": 9.34,
+  "sem4cgpa": 9.67,
+  "placement": false
+ },
+ {
+  "regno": 2105105002,
+  "studentlist": "abhishek badapanda",
+  "sem1cgpa": 7.24,
+  "sem2cgpa": 7.91,
+  "sem3cgpa": 8.56,
+  "sem4cgpa": 8.99,
+  "placement": false
+ },
+ {
+  "regno": 2105105003,
+  "studentlist": "amit kumar mohanty",
+  "sem1cgpa": 8.76,
+  "sem2cgpa": 8.65,
+  "sem3cgpa": 9.48,
+  "sem4cgpa": 8.88,
+  "placement": false
+ },
+ {
+  "regno": 2105105004,
+  "studentlist": "ananya pattnaik",
+  "sem1cgpa": 9.48,
+  "sem2cgpa": 9,
+  "sem3cgpa": 8.46,
+  "sem4cgpa": 9.76,
+  "placement": true
+ },
+ {
+  "regno": 2105105005,
+  "studentlist": "asha devi",
+  "sem1cgpa": 9.29,
+  "sem2cgpa": 8.42,
+  "sem3cgpa": 7.79,
+  "sem4cgpa": 7.87,
+  "placement": false
+ },
+ {
+  "regno": 2105105006,
+  "studentlist": "ashutosh jena",
+  "sem1cgpa": 8.52,
+  "sem2cgpa": 8.23,
+  "sem3cgpa": 7.33,
+  "sem4cgpa": 8.67,
+  "placement": false
+ },
+ {
+  "regno": 2105105007,
+  "studentlist": "bibhisan mahanta",
+  "sem1cgpa": 8.81,
+  "sem2cgpa": 8.12,
+  "sem3cgpa": 9.15,
+  "sem4cgpa": 9.65,
+  "placement": false
+ },
+ {
+  "regno": 2105105008,
+  "studentlist": "bibhuti bhusan behera",
+  "sem1cgpa": 9.71,
+  "sem2cgpa": 9.09,
+  "sem3cgpa": 7.71,
+  "sem4cgpa": 8.45,
+  "placement": false
+ },
+ {
+  "regno": 2105105009,
+  "studentlist": "biswajit kar",
+  "sem1cgpa": 7.76,
+  "sem2cgpa": 7.19,
+  "sem3cgpa": 9.62,
+  "sem4cgpa": 8.89,
+  "placement": false
+ },
+ {
+  "regno": 2105105010,
+  "studentlist": "biswasmruti sahoo",
+  "sem1cgpa": 9,
+  "sem2cgpa": 8.26,
+  "sem3cgpa": 8.85,
+  "sem4cgpa": 8.9,
+  "placement": true
+ },
+ {
+  "regno": 2105105011,
+  "studentlist": "ch suraj subudhi",
+  "sem1cgpa": 9.14,
+  "sem2cgpa": 8.65,
+  "sem3cgpa": 7.23,
+  "sem4cgpa": 8.99,
+  "placement": true
+ },
+ {
+  "regno": 2105105012,
+  "studentlist": "chiraswati mishra",
+  "sem1cgpa": 8.81,
+  "sem2cgpa": 7.79,
+  "sem3cgpa": 8.11,
+  "sem4cgpa": 9.56,
+  "placement": true
+ },
+ {
+  "regno": 2105105013,
+  "studentlist": "debasish sahoo",
+  "sem1cgpa": 8.86,
+  "sem2cgpa": 8.37,
+  "sem3cgpa": 9.89,
+  "sem4cgpa": 9.67,
+  "placement": false
+ },
+ {
+  "regno": 2105105014,
+  "studentlist": "deeptendu sekhar sahoo",
+  "sem1cgpa": 8.48,
+  "sem2cgpa": 7.6,
+  "sem3cgpa": 9.26,
+  "sem4cgpa": 9.43,
+  "placement": false
+ },
+ {
+  "regno": 2105105015,
+  "studentlist": "gourav rana",
+  "sem1cgpa": 8.71,
+  "sem2cgpa": 8.05,
+  "sem3cgpa": 8.94,
+  "sem4cgpa": 9.12,
+  "placement": true
+ },
+ {
+  "regno": 2105105016,
+  "studentlist": "harapriya jena",
+  "sem1cgpa": 7.14,
+  "sem2cgpa": 6.42,
+  "sem3cgpa": 8.33,
+  "sem4cgpa": 9.04,
+  "placement": true
+ },
+ {
+  "regno": 2105105017,
+  "studentlist": "himanshu patra",
+  "sem1cgpa": 8.14,
+  "sem2cgpa": 7.07,
+  "sem3cgpa": 9.07,
+  "sem4cgpa": 8.46,
+  "placement": false
+ },
+ {
+  "regno": 2105105018,
+  "studentlist": "jashobanta kumar sa",
+  "sem1cgpa": 9.48,
+  "sem2cgpa": 8.84,
+  "sem3cgpa": 7.91,
+  "sem4cgpa": 8.56,
+  "placement": false
+ },
+ {
+  "regno": 2105105019,
+  "studentlist": "jayashree barik",
+  "sem1cgpa": 9.38,
+  "sem2cgpa": 9.02,
+  "sem3cgpa": 8.59,
+  "sem4cgpa": 9.09,
+  "placement": true
+ },
+ {
+  "regno": 2105105020,
+  "studentlist": "jiban krusna sahoo",
+  "sem1cgpa": 8.14,
+  "sem2cgpa": 7.49,
+  "sem3cgpa": 8.78,
+  "sem4cgpa": 9,
+  "placement": false
+ },
+ {
+  "regno": 2105105021,
+  "studentlist": "kriti kumar behera",
+  "sem1cgpa": 9.29,
+  "sem2cgpa": 8.79,
+  "sem3cgpa": 7.46,
+  "sem4cgpa": 9.76,
+  "placement": true
+ },
+ {
+  "regno": 2105105022,
+  "studentlist": "lopamudra behera",
+  "sem1cgpa": 8.62,
+  "sem2cgpa": 8.23,
+  "sem3cgpa": 9.54,
+  "sem4cgpa": 9.21,
+  "placement": false
+ },
+ {
+  "regno": 2105105023,
+  "studentlist": "madhuchhanda karan",
+  "sem1cgpa": 9.62,
+  "sem2cgpa": 9.09,
+  "sem3cgpa": 7.14,
+  "sem4cgpa": 9.54,
+  "placement": true
+ },
+ {
+  "regno": 2105105024,
+  "studentlist": "malay ranjan das",
+  "sem1cgpa": 9.1,
+  "sem2cgpa": 8.19,
+  "sem3cgpa": 7.59,
+  "sem4cgpa": 8.61,
+  "placement": false
+ },
+ {
+  "regno": 2105105025,
+  "studentlist": "manas ranjan mohanta",
+  "sem1cgpa": 9.24,
+  "sem2cgpa": 8.88,
+  "sem3cgpa": 8.27,
+  "sem4cgpa": 8.54,
+  "placement": false
+ },
+ {
+  "regno": 2105105026,
+  "studentlist": "mrutyunjaya patra",
+  "sem1cgpa": 9.48,
+  "sem2cgpa": 9.09,
+  "sem3cgpa": 9.33,
+  "sem4cgpa": 9.3,
+  "placement": true
+ },
+ {
+  "regno": 2105105027,
+  "studentlist": "munu singh",
+  "sem1cgpa": 9.14,
+  "sem2cgpa": 8.72,
+  "sem3cgpa": 8.69,
+  "sem4cgpa": 8.4,
+  "placement": true
+ },
+ {
+  "regno": 2105105028,
+  "studentlist": "narendra sahu",
+  "sem1cgpa": 9.62,
+  "sem2cgpa": 9.16,
+  "sem3cgpa": 9.42,
+  "sem4cgpa": 8.9,
+  "placement": false
+ },
+ {
+  "regno": 2105105029,
+  "studentlist": "pitamber nayak",
+  "sem1cgpa": 7.43,
+  "sem2cgpa": 7,
+  "sem3cgpa": 7.68,
+  "sem4cgpa": 8.8,
+  "placement": false
+ },
+ {
+  "regno": 2105105030,
+  "studentlist": "prabhudatta giri",
+  "sem1cgpa": 9.52,
+  "sem2cgpa": 8.81,
+  "sem3cgpa": 9.7,
+  "sem4cgpa": 9.35,
+  "placement": false
+ },
+ {
+  "regno": 2105105031,
+  "studentlist": "prasanta kumar sahoo",
+  "sem1cgpa": 8.95,
+  "sem2cgpa": 7.63,
+  "sem3cgpa": 8.02,
+  "sem4cgpa": 7.89,
+  "placement": false
+ },
+ {
+  "regno": 2105105032,
+  "studentlist": "pratyush tripathy",
+  "sem1cgpa": 8.81,
+  "sem2cgpa": 8.42,
+  "sem3cgpa": 8.43,
+  "sem4cgpa": 9.7,
+  "placement": true
+ },
+ {
+  "regno": 2105105033,
+  "studentlist": "promod naik",
+  "sem1cgpa": 8.43,
+  "sem2cgpa": 7.56,
+  "sem3cgpa": 7.27,
+  "sem4cgpa": 9.43,
+  "placement": false
+ },
+ {
+  "regno": 2105105034,
+  "studentlist": "rabindra bindhani",
+  "sem1cgpa": 9.48,
+  "sem2cgpa": 8.53,
+  "sem3cgpa": 9.11,
+  "sem4cgpa": 8.85,
+  "placement": false
+ },
+ {
+  "regno": 2105105035,
+  "studentlist": "rahul dev tudu",
+  "sem1cgpa": 7.38,
+  "sem2cgpa": 6.4,
+  "sem3cgpa": 9.94,
+  "sem4cgpa": 8.78,
+  "placement": false
+ },
+ {
+  "regno": 2105105036,
+  "studentlist": "rakesh kumar sethi",
+  "sem1cgpa": 9.14,
+  "sem2cgpa": 8.79,
+  "sem3cgpa": 8.19,
+  "sem4cgpa": 9.65,
+  "placement": false
+ },
+ {
+  "regno": 2105105037,
+  "studentlist": "ranajeet kar kar",
+  "sem1cgpa": 8.05,
+  "sem2cgpa": 7.3,
+  "sem3cgpa": 7.04,
+  "sem4cgpa": 9.24,
+  "placement": false
+ },
+ {
+  "regno": 2105105038,
+  "studentlist": "saneay behera",
+  "sem1cgpa": 9.57,
+  "sem2cgpa": 8.88,
+  "sem3cgpa": 8.97,
+  "sem4cgpa": 9.35,
+  "placement": true
+ },
+ {
+  "regno": 2105105039,
+  "studentlist": "sarojini rath",
+  "sem1cgpa": 9.33,
+  "sem2cgpa": 8.79,
+  "sem3cgpa": 9.61,
+  "sem4cgpa": 9.56,
+  "placement": false
+ },
+ {
+  "regno": 2105105040,
+  "studentlist": "saswata sahu",
+  "sem1cgpa": 6.1,
+  "sem2cgpa": 6.81,
+  "sem3cgpa": 7.97,
+  "sem4cgpa": 9.74,
+  "placement": true
+ },
+ {
+  "regno": 2105105041,
+  "studentlist": "satyajit mohanty",
+  "sem1cgpa": 0,
+  "sem2cgpa": 0,
+  "sem3cgpa": 7.77,
+  "sem4cgpa": 8.71,
+  "placement": false
+ },
+ {
+  "regno": 2105105042,
+  "studentlist": "saubhagya behera",
+  "sem1cgpa": 8.95,
+  "sem2cgpa": 8.84,
+  "sem3cgpa": 9.45,
+  "sem4cgpa": 8.28,
+  "placement": false
+ },
+ {
+  "regno": 2105105043,
+  "studentlist": "shakti chandan sahoo",
+  "sem1cgpa": 9,
+  "sem2cgpa": 8.37,
+  "sem3cgpa": 9.03,
+  "sem4cgpa": 9.09,
+  "placement": true
+ },
+ {
+  "regno": 2105105044,
+  "studentlist": "shibasmita muduli",
+  "sem1cgpa": 9.81,
+  "sem2cgpa": 9.19,
+  "sem3cgpa": 7.62,
+  "sem4cgpa": 9.65,
+  "placement": true
+ },
+ {
+  "regno": 2105105045,
+  "studentlist": "shiv sankar mohanta",
+  "sem1cgpa": 8.95,
+  "sem2cgpa": 8.63,
+  "sem3cgpa": 8.51,
+  "sem4cgpa": 9.45,
+  "placement": false
+ },
+ {
+  "regno": 2105105046,
+  "studentlist": "shrabani patra",
+  "sem1cgpa": 8.43,
+  "sem2cgpa": 7.56,
+  "sem3cgpa": 7.86,
+  "sem4cgpa": 9.42,
+  "placement": false
+ },
+ {
+  "regno": 2105105047,
+  "studentlist": "siba prasad sahu",
+  "sem1cgpa": 8.71,
+  "sem2cgpa": 8.02,
+  "sem3cgpa": 9.87,
+  "sem4cgpa": 8.35,
+  "placement": false
+ },
+ {
+  "regno": 2105105048,
+  "studentlist": "simran sandhya dash",
+  "sem1cgpa": 9.48,
+  "sem2cgpa": 8.53,
+  "sem3cgpa": 9.37,
+  "sem4cgpa": 8.54,
+  "placement": true
+ },
+ {
+  "regno": 2105105049,
+  "studentlist": "soumyaranjan das",
+  "sem1cgpa": 9.48,
+  "sem2cgpa": 8.86,
+  "sem3cgpa": 7.83,
+  "sem4cgpa": 8.9,
+  "placement": true
+ },
+ {
+  "regno": 2105105050,
+  "studentlist": "sourav nayak",
+  "sem1cgpa": 8.81,
+  "sem2cgpa": 7.95,
+  "sem3cgpa": 9.48,
+  "sem4cgpa": 9.82,
+  "placement": false
+ },
+ {
+  "regno": 2105105051,
+  "studentlist": "subasis mallick",
+  "sem1cgpa": 9.33,
+  "sem2cgpa": 8.95,
+  "sem3cgpa": 8.71,
+  "sem4cgpa": 9.74,
+  "placement": true
+ },
+ {
+  "regno": 2105105052,
+  "studentlist": "sudeep kumar panigrahi",
+  "sem1cgpa": 8.14,
+  "sem2cgpa": 7.91,
+  "sem3cgpa": 8.39,
+  "sem4cgpa": 9.75,
+  "placement": false
+ },
+ {
+  "regno": 2105105053,
+  "studentlist": "sunanda sahoo",
+  "sem1cgpa": 9.62,
+  "sem2cgpa": 9.07,
+  "sem3cgpa": 7.17,
+  "sem4cgpa": 9.43,
+  "placement": false
+ },
+ {
+  "regno": 2105105054,
+  "studentlist": "sunil kumar sahu",
+  "sem1cgpa": 9.62,
+  "sem2cgpa": 8.98,
+  "sem3cgpa": 7.51,
+  "sem4cgpa": 8.34,
+  "placement": true
+ },
+ {
+  "regno": 2105105055,
+  "studentlist": "sushree das",
+  "sem1cgpa": 8.24,
+  "sem2cgpa": 7.6,
+  "sem3cgpa": 9.13,
+  "sem4cgpa": 9.54,
+  "placement": false
+ },
+ {
+  "regno": 2105105056,
+  "studentlist": "sushreeipsita samantaray",
+  "sem1cgpa": 9.43,
+  "sem2cgpa": 8.77,
+  "sem3cgpa": 8.56,
+  "sem4cgpa": 9.6,
+  "placement": false
+ },
+ {
+  "regno": 2105105057,
+  "studentlist": "suvendu kumar sahoo",
+  "sem1cgpa": 7.52,
+  "sem2cgpa": 6.53,
+  "sem3cgpa": 9.76,
+  "sem4cgpa": 9.92,
+  "placement": true
+ },
+ {
+  "regno": 2105105058,
+  "studentlist": "udayabhanu aich",
+  "sem1cgpa": 8.9,
+  "sem2cgpa": 8.37,
+  "sem3cgpa": 8.92,
+  "sem4cgpa": 9.42,
+  "placement": true
+ },
+ {
+  "regno": 2105105059,
+  "studentlist": "janmejay swain",
+  "sem1cgpa": 8.76,
+  "sem2cgpa": 8.47,
+  "sem3cgpa": 7.08,
+  "sem4cgpa": 9.8,
+  "placement": true
+ },
+ {
+  "regno": 2105105060,
+  "studentlist": "papu sahoo",
+  "sem1cgpa": 9.14,
+  "sem2cgpa": 8.56,
+  "sem3cgpa": 9.69,
+  "sem4cgpa": 9.2,
+  "placement": true
+ },
+ {
+  "regno": 2105105061,
+  "studentlist": "satyasiba sahoo",
+  "sem1cgpa": 9.24,
+  "sem2cgpa": 8.47,
+  "sem3cgpa": 8.88,
+  "sem4cgpa": 9.67,
+  "placement": true
+ },
+ {
+  "regno": 2105105062,
+  "studentlist": "payal sahoo",
+  "sem1cgpa": 9.57,
+  "sem2cgpa": 8.79,
+  "sem3cgpa": 9.66,
+  "sem4cgpa": 9.45,
+  "placement": true
+ },
+ {
+  "regno": 2105105063,
+  "studentlist": "bibeka nanda naik",
+  "sem1cgpa": 8.14,
+  "sem2cgpa": 7.74,
+  "sem3cgpa": 7.37,
+  "sem4cgpa": 9.67,
+  "placement": false
+ }
+],
+"faculty" : [
+  {
+    "name": "dr. (mrs.) sasmita mishra",
+    "designation": "professor & hod",
+    "qualification": "ph. d. (uu), mca (su), m.e.(su) limiste",
+    "expertise": "data structure, programming, language, rdbms, operating systemas, graphics"
+  },
+  {
+    "name": "dr. sarojananda mishra",
+    "designation": "professor",
+    "qualification": "mca(s.u.), m. tech (ii.t.delhi), ph.d.(uu), lmiste, amaima",
+    "expertise": "fractals and graphics, system dynamics, mis, operation research, networking, computer programming"
+  },
+  {
+    "name": "dr. srinivas sethi",
+    "designation": "professor",
+    "qualification": "ph. d., routing in manet.",
+    "expertise": "ad hoc network, sensor network and cognitive radio network, crowding sensing, cloud computing, bigdata and bci and cognitive science"
+  },
+  {
+    "name": "mr. medini srinivas",
+    "designation": "professor",
+    "qualification": "mca (su), m.e.(su) limiste",
+    "expertise": "artificial intelligence, nlp, oops, software engineering"
+  },
+  {
+    "name": "dr. biswanath sethi",
+    "designation": "professor",
+    "qualification": "b.e.,m.e.,ph.d.",
+    "expertise": "cellular automata, pattern classification"
+  },
+  {
+    "name": "dr. dillip ku. swain",
+    "designation": "professor",
+    "qualification": "mca, m.tech., ph.d",
+    "expertise": "computational theory, ai, networking"
+  },
+  {
+    "name": "dr. niroj kumar pani",
+    "designation": "professor",
+    "qualification": "m.tech, ph.d.",
+    "expertise": "computer networks, wireless ad hoc and sensor networks, network security, cloud computing, iot"
+  },
+  {
+    "name": "mr. priyabrata sahu",
+    "designation": "professor",
+    "qualification": "mca, m.tech.",
+    "expertise": "rdbms, operating system, graphics, networking, computer architecture"
+  },
+  {
+    "name": "dr. sanjaya ku. patra",
+    "designation": "professor",
+    "qualification": "m.c.a, m. tech, ph.d",
+    "expertise": "data structure, programming, language, rdbms"
+  },
+  {
+    "name": "mrs. anupama sahu",
+    "designation": "asst. professor",
+    "qualification": "b. tech., m. tech. ph.d. continuing",
+    "expertise": "data base; software engineering;"
+  },
+  {
+    "name": "mr. bapuji rao",
+    "designation": "asst. professor",
+    "qualification": "m.tech. ph.d. (continuing)",
+    "expertise": "data mining and data warehousing, java,c++,python"
+  },
+  {
+    "name": "mr. binaya kumar patra",
+    "designation": "asst. professor",
+    "qualification": "m.tech. ph.d. (continuing)",
+    "expertise": "computer graphics, wsn"
+  },
+  {
+    "name": "mr. ramesh kumar sahoo",
+    "designation": "asst. professor",
+    "qualification": "b. tech, m.tech, ph.d continuing"
+  },
+  {
+    "name": "dr. (mrs.) sangita pal",
+    "designation": "professor",
+    "qualification": "ph.d. in comp. sc. engg.",
+    "expertise": "cognitive radio ad hoc network; security"
+  },
+  {
+    "name": "mr. sangram keshari nayak",
+    "designation": "asst. professor",
+    "qualification": "m.c.a, m.tech, phd continuing",
+    "expertise": "programming language, dbms, soft computing, algorithm"
+  },
+  {
+    "name": "dr. subhendu bhusan rout",
+    "designation": "professor",
+    "qualification": "b. tech, m.tech, ph.d",
+    "expertise": "bioinformatics"
+  },
+  {
+    "name": "miss. supriya lenka",
+    "designation": "asst. professor",
+    "qualification": "m.tech. (cse), igit sarang, ph.d continuing"
+  },
+  {
+    "name": "mr. susanta kumar sahoo",
+    "designation": "asst. professor",
+    "qualification": "m.c.a., m.tech., ph.d. continuing",
+    "expertise": "programming language, dbms, operating system, microprocessor"
+  },
+  {
+    "name": "mr. suvendu kumar jena",
+    "designation": "asst. professor",
+    "qualification": "be(uu), m-tech(bu), ph.d.(continuing)",
+    "expertise": "systems programming, mobile computing, multidimensional database, data mining"
+  }
+]
+}
+
